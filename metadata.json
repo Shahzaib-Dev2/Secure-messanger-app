@@ -1,0 +1,5 @@
+{
+  "name": "Secure Messenger",
+  "description": "A simple and secure messaging application that uses Gemini to enhance messages and client-side encryption to secure them.",
+  "requestFramePermissions": []
+}
